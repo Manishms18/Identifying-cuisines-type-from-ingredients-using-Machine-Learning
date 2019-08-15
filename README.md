@@ -1,1 +1,1 @@
-# Predicting cuisines type from ingredients using Machine Learning
+# Recognizing cuisines type from ingredients using Machine Learning

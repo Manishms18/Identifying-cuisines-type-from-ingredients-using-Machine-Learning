@@ -1,7 +1,6 @@
 # Identifying cuisines type from ingredients using Machine Learning
 Using food Ingredients to classify cuisines type using Machine Learning algorithm.
 
-
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
